@@ -19,3 +19,11 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 insecure                # Allow all DB writes from clients (for prototyping)
 iron:router
 msavin:mongol
+accounts-password
+accounts-facebook
+accounts-google
+accounts-twitter
+service-configuration
+http
+email
+meteorhacks:ssr
